@@ -8,7 +8,7 @@ Welcome to Hacktoberfest 2023! 👋🏻
 
 We have curated a couple of projects, please feel free to use them.
 
-* CodeInBlogs Clone
+* CodeINBlogs Clone
 * Facebook Clone
 * Twitter Clone
 * LinkedIn Clone
